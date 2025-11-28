@@ -12,6 +12,8 @@ permalink: /cv/
 **GitHub:** [github.com/FedericoSaitta](https://github.com/FedericoSaitta)  
 **LinkedIn:** [linkedin.com/in/federico-saitta](https://linkedin.com/in/federico-saitta-0128a6281)
 
+**[📄 Download CV as PDF](/files/Federico_Saitta_CV.pdf){:target="_blank"}**
+
 ---
 
 ## Professional Summary

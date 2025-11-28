@@ -26,9 +26,8 @@ author:
   avatar           : "profile_pic.png"
   name             : "Federico Saitta"
   pronouns         : "He/Him"
-  bio              : "Masters physics student interested in the use of Machine Learning for real-world impact"
-  location         : "Manchester, UK"
-  employer         : "The University of Manchester"
+  bio              : "Final-year MPhys Physics student specializing in Machine Learning and High-Performance Computing"
+  employer         : # URL
   uri              : # URL
   email            : "federico.saitta@outlook.com" 
 
